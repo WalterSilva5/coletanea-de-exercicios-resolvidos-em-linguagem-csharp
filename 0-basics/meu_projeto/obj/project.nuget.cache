@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFokRNEkxj3iGhNJKF5wK9heExZZGCZ3A0HdumqouyHtZUD/upZQcRfKKrMyfECOThzrtziORB32Nqqx8u5Z7w==",
+  "dgSpecHash": "TiA5uTc9HbPzrEfItR0fIvB721ZJxL9SkVsIV8cRsgpTpdJ9eTIA04DoCgPtgmUc4mLg5/67dy0tj7pQpP2jjA==",
   "success": true,
   "projectFilePath": "/home/wsi/repositorios/GitHub/coletanea-de-exercicios-resolvidos-em-linguagem-csharp/0-basics/meu_projeto/meu_projeto.csproj",
-  "expectedPackageFiles": [
-    "/home/wsi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
